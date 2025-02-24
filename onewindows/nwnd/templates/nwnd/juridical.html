@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Административные процедуры по заявлениям юридических лиц</title>
+
+</head>
+<body>
+
+<h1>Административные процедуры по заявлениям юридических лиц</h1>
+{% load static %}
+<link rel="stylesheet" href="{% static 'nwnd/css/juridical.css' %}">
+<div class = "container">
+    <a href="{% url 'money' %}" class="nwnd2-button btn btn-primary" style="background-image: url('{% static 'nwnd/image/money.png' %}')" >Экономические отношения</a>
+    <a href="{% url 'stroitelstvo' %}" class="nwnd2-button btn btn-primary" style="background-image: url('{% static 'nwnd/image/stroitelstvo.png' %}')" >Проектирование и строительство</a>
+    <a href="{% url 'svyz' %}" class="nwnd2-button btn btn-primary" style="background-image: url('{% static 'nwnd/image/svyz.png' %}')" >Информация и связь</a>
+    <a href="{% url 'oos' %}" class="nwnd2-button btn btn-primary" style="background-image: url('{% static 'nwnd/image/oos.png' %}')" >Охрана окружающей среды и природопользование</a>
+    <a href="{% url 'shop' %}" class="nwnd2-button btn btn-primary" style="background-image: url('{% static 'nwnd/image/shop.png' %}')">Торговля, общественное питание</a>
+    <a href="{% url 'educationj' %}" class="nwnd2-button btn btn-primary" style="background-image: url('{% static 'nwnd/image/education2.png' %}')" >Образование и молодежная политика</a>
+    <a href="{% url 'sportj' %}" class="nwnd2-button btn btn-primary"  style="background-image: url('{% static 'nwnd/image/sport.png' %}')">Физическая культура и спорт,туризм,культура</a>
+    <a href="{% url 'finansy' %}" class="nwnd2-button btn btn-primary" style="background-image: url('{% static 'nwnd/image/finansy.png' %}')" >Финансы,деятельность по организации азартных игр и лотареи</a>
+    <a href="{% url 'imysh' %}" class="nwnd2-button btn btn-primary" style="background-image: url('{% static 'nwnd/image/imysh.png' %}')">Имущественные,жилищные и земельные правоотношения</a>
+</div>
+
+<a href = "{% url 'home'%} " class = "back-button">Назад</a>
+</body>
+</html>

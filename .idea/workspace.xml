@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e36bef00-2478-4115-a64d-3c6ab1e4662c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/css/Laborandsocialprotection.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/css/architecture.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/css/juridical.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/css/procedures.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/documents/doc1.1.2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/documents/doc1.1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/documents/doc10.3.2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/documents/doc3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/documents/document1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/documents/document2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/documents/Административная процедура 1.1.2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/documents/Административная процедура 10.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/Laborandsocialprotection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/agriculture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/architecture1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/architecture2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/architecture3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/arhive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/arhive1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/arhive2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/arhive3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/army.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/doc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/education.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/education2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/finansy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/guardianship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/housingrelations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/housingrelations1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/imysh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/nature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/oos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/reg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/rege.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/shop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/sport.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/stroitelstvo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/svyz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/static/nwnd/image/transport.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/agriculture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/archieva2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/archieve.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/archieve1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/architecture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/army.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/education.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/educationj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/finansy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/guardianship.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/housingrelations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/imysh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/juridical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/laborandsocialprotection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/money.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/nature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/oos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/procedures.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/rege.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/sport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/sportj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/stroitelstvo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/svyz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/templates/nwnd/transport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/nwnd/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/onewindows/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/onewindows/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/onewindows/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/onewindows/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/onewindows/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onewindows/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nadzeyapo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nadzeyapo/onewindowsby.git",
+    "accountId": "680e1f1f-8af5-43a5-b225-d4fa666f5ade"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2sIuPfOIdbXfxKVC8QlqjUHbw8w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e36bef00-2478-4115-a64d-3c6ab1e4662c" name="Changes" comment="" />
+      <created>1738155388646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738155388646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

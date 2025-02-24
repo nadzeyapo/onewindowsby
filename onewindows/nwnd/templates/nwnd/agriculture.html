@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Сельское хозяйство</title>
+</head>
+<body>
+
+<h1>Административные процедуры по заявлениям граждан в сфере "Сельское хозяйство"</h1>
+{% load static %}
+<link rel="stylesheet" href="{% static 'nwnd/css/architecture.css' %}">
+<ul>
+        <li><a href="{% static 'nwnd/documents/document1.pdf' %}">17.7 Регистрация собак, кошек с выдачей регистрационного удостоверения и жетона </a></li>
+    </ul>
+
+<a href = "{% url 'procedures'%} " class = "nwnd0-button btn btn-primary back-button">Назад</a>
+
+</body>
+</html>

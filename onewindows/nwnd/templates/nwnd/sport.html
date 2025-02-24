@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Физическая культура и спорт, туризм, культура</title>
+   {% load static %}
+    <link rel="stylesheet" href="{% static 'nwnd/css/architecture.css' %}">
+</head>
+<body>
+<h1>Административные процедуры по заявлениям граждан в сфере "Физическая культура и спорт, туризм, культура"</h1>
+
+ <ul>
+        <li><a href="{% static 'nwnd/documents/document1.pdf' %}">8.4(1) Принятие решения об осуществлении деятельности по оказанию услуг в сфере агроэкотуризма </a></li>
+        <li><a href="{% static 'nwnd/documents/document2.pdf' %}">8.10 Согласование выполнения земляных, строительных, мелиоративных и других работ, осуществления иной деятельности на территории археологических  </a></li>
+    </ul>
+<a href = "{% url 'procedures'%} " class = "nwnd0-button btn btn-primary back-button">Назад</a>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Воинская обязанность</title>
+</head>
+<body>
+<h1>Административные процедуры по заявлениям граждан в сфере "Воинская обязанность, прохождение альтернативной службы"</h1>
+{% load static %}
+<link rel="stylesheet" href="{% static 'nwnd/css/architecture.css' %}">
+
+<ul>
+        <li><a href="{% static 'nwnd/documents/document1.pdf' %}">20.2.3(1) Выдача справки о страховании гражданина, проходящего альтернативную службу, погибшего (умершего) при исполнении обязанностей альтернативной службы </a></li>
+        <li><a href="{% static 'nwnd/documents/document2.pdf' %}">20.6(1) Выдача справки о направлении на альтернативную службу </a></li>
+    </ul>
+
+
+<a href = "{% url 'procedures'%} " class = "nwnd0-button btn btn-primary back-button">Назад</a>
+
+</body>
+</html>

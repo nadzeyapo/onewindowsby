@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Образование и молодежная политика</title>
+</head>
+<body>
+<h1>Административные процедуры по заявлениям граждан в сфере "Образование и молодежная политика"</h1>
+{% load static %}
+<link rel="stylesheet" href="{% static 'nwnd/css/architecture.css' %}">
+  <ul>
+        <li><a href="{% static 'nwnd/documents/document1.pdf' %}">10.2.1 Получение лицензии на осуществление образовательной деятельности  </a></li>
+        <li><a href="{% static 'nwnd/documents/document2.pdf' %}">10.2.2 Изменение лицензии на осуществление образовательной деятельности  </a></li>
+      <li><a href="{% static 'nwnd/documents/doc10.3.2.pdf' %}">10.3.2 Включение местного молодежного или детского общественного объединения в местный реестр молодежных и детских общественных объединений, пользующихся государственной поддержкой </a></li>
+        <li><a href="{% static 'nwnd/documents/document2.pdf' %}">10.8.1 Получение согласования решения о формировании студенческого отряда </a></li>
+    </ul>
+
+<a href = "{% url 'juridical'%} " class = "back-button">Назад</a>
+
+</body>
+</html>
